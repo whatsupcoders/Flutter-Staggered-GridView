@@ -1,4 +1,4 @@
-# flutter_gridphoto_app
+# flutter Staggered Grid View
 
 Flutter Tutorial - Flutter Staggered Grid View
 Flutter Tutorial - Flutter Staggered Grid View Video series can be watched here https://youtu.be/wDoR302KSU4
